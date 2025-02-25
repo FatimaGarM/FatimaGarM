@@ -21,7 +21,11 @@
 
 
 ### 📊 Mis estadísticas  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FatimaGarM&show_icons=true&theme=pastel)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FatimaGarM&show_icons=true&theme=gradient&hide_border=true&bg_color=FCE4EC,E1BEE7,CE93D8"/>
+</p>
+
+
 
 ### 📫 Conéctate conmigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatimagarciamuriana/)  
