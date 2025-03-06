@@ -1,31 +1,42 @@
-<h1 align="center">🌸 ¡Hola! Soy Fátima 🌸</h1>
-
+<h1 align="center">✨ Hola, soy Fátima ✨</h1>
 <p align="center">
-  👩‍💻 Estudiante de Desarrollo Web | Intuitivo, Minimalista & Accesible
+🎨 Cuidando cada detalle | 💡 Mejorando la experiencia de usuario
 </p>
 
 ---
 
-### ✨ Sobre mí  
-- 🎨 Apasionada por el diseño web y la experiencia de usuario.  
-- 🚀 Aprendiendo JavaScript, React y desarrollo backend.  
-- ☕ Amante del Capuchino.  
+### 🌸 Sobre mí  
+💻 Desarrolladora **Front-end / Full-stack**.  
+📖 Actualmente aprendiendo **HTML, CSS, JavaScript, React y Java**.  
+💜 Interesada en **e-commerce, UX/UI, IA, ciberseguridad e idiomas**.  
+🎯 Objetivo: Crear proyectos con una estética limpia y una experiencia intuitiva.  
 
-### 🛠️ Tecnologías en las que estoy trabajando  
+---
+
+### 🎨 Stack Tecnológico  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-87CEEB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-E9967A?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 
-### 📊 Mis estadísticas  
+---
+
+### 🎀 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatimaGarM&show_icons=true&theme=gradient&hide_border=true&bg_color=FCE4EC,E1BEE7,CE93D8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FatimaGarM&show_icons=true&theme=omni&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGarM&layout=compact&theme=omni&hide_border=true" height="150px"/>
 </p>
 
+---
 
+### 📫 Contáctame  
+🔗 **LinkedIn:** [Fatima](https://www.linkedin.com/in/fatima/)  
 
-### 📫 Conéctate conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatimagarciamuriana/)  
+---
+
+🌸 *Creando con calma, código y creatividad.*  
+
