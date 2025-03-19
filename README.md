@@ -7,9 +7,9 @@
 
 ### 🌸 Sobre mí  
 💻 Desarrolladora **Front-end / Full-stack**.  
-📖 Actualmente aprendiendo **HTML, CSS, JavaScript, React y Java**.  
-💜 Interesada en **e-commerce, UX/UI, IA, ciberseguridad e idiomas**.  
-🎯 Objetivo: Crear proyectos con una estética limpia y una experiencia intuitiva.  
+📖 Actualmente aprendiendo **HTML, CSS, JavaScript, Java y React **.  
+💜 Interesada en **UX/UI, IA, ecommercer e idiomas**.  
+🎯 Objetivo: Crear proyectos con una estética limpia y experiencia intuitiva.  
 
 ---
 
