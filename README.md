@@ -1,6 +1,6 @@
-<h1 align="center">✨ Hola, soy Fátima ✨</h1>
+<h1 align="center">¡Hola! soy Fátima </h1>
 <p align="center">
-Aprendiendo para mejorar la experiencia de los usuarios.🎯 
+Estoy aprendiendo para mejorar la experiencia de los usuarios.🎯 
 </p>
 
 ---
