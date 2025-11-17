@@ -34,7 +34,7 @@ Estoy aprendiendo para mejorar la experiencia de los usuarios.🎯
 ---
 
 ### 📫 Contáctame  
-🔗 **LinkedIn:** [Fatima](https://www.linkedin.com/in/fatima/)  
+🔗 **LinkedIn:** [Fatima](https://www.linkedin.com/in/fatimagarciamuriana/)  
 
 ---
 
