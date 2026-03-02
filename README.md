@@ -1,42 +1,70 @@
-<h1 align="center">¡Hola! soy Fátima </h1>
+<h1 align="center">Hola, soy Fátima </h1>
+
 <p align="center">
-Estoy aprendiendo para mejorar la experiencia de los usuarios.🎯 
+Desarrolladora web junior en formación | Estudiante de 2º DAW<br>
+Interesada en el desarrollo Frontend y Full-stack
 </p>
 
 ---
 
-### 🌸 Sobre mí  
-💻 Desarrolladora **Front-end / Full-stack**.  
-📖 Actualmente aprendiendo **HTML, CSS, JavaScript, Java y React **.  
-💜 Interesada en **UX/UI, IA, ecommercer e idiomas**.  
-🎯 Objetivo: Crear proyectos con una estética limpia y experiencia intuitiva.  
+###  Sobre mí
+
+Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** actualmente realizando prácticas y ampliando mis conocimientos en desarrollo web.
+
+Me interesa especialmente el desarrollo de aplicaciones completas, combinando **interfaces intuitivas** con **backend estructurado y funcional**.
+
+Disfruto aprendiendo nuevas tecnologías y trabajando en proyectos que me permitan mejorar como desarrolladora.
+
+Actualmente estoy abierta a **oportunidades como desarrolladora web junior**.
 
 ---
 
-### 🎨 Stack Tecnológico  
+### Tecnologías
+
+**Frontend**
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Angular
+- React
+- Bootstrap
+
+**Backend**
+
+- Java
+- Spring Boot
+- PHP
+- MySQL
+
+**Herramientas**
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+Actualmente sigo añadiendo nuevos proyectos para mejorar mis habilidades.
+
+---
+
+### 📊 Estadísticas GitHub
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-87CEEB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-E9967A?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FatimaGarM&show_icons=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGarM&layout=compact" height="150px"/>
 </p>
 
+---
+
+### 📫 Contacto
+
+LinkedIn:
+www.linkedin.com/in/fatimagarciamuriana
 
 ---
 
-### 🎀 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatimaGarM&show_icons=true&theme=omni&hide_border=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGarM&layout=compact&theme=omni&hide_border=true" height="150px"/>
-</p>
-
----
-
-### 📫 Contáctame  
-🔗 **LinkedIn:** [Fatima](https://www.linkedin.com/in/fatimagarciamuriana/)  
-
----
-
-🌸 *Creando con calma, código y creatividad.*  
+ Siempre aprendiendo y mejorando como desarrolladora.
 
