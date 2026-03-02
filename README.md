@@ -48,6 +48,14 @@ Git • GitHub • VS Code
 - Aprendiendo nuevas tecnologías web
 
 ---
+### ✧ Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FatimaGarM&show_icons=true&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGarM&layout=compact&hide_border=true" height="150px"/>
+</p>
+
+---
 
 ### ✧ Contacto
 
