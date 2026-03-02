@@ -1,70 +1,62 @@
-<h1 align="center">Hola, soy Fátima </h1>
+<h1 align="center">Fátima</h1>
 
 <p align="center">
-Desarrolladora web junior en formación | Estudiante de 2º DAW<br>
-Interesada en el desarrollo Frontend y Full-stack
+Desarrollo de Aplicaciones Web • Frontend y Full-stack
+</p>
+
+<p align="center">
+✨ Angular • React • Java • Spring Boot • PHP • MySQL ✨
 </p>
 
 ---
 
-###  Sobre mí
+### 🌸 Sobre mí
 
-Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** actualmente realizando prácticas y ampliando mis conocimientos en desarrollo web.
+Soy estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)** y actualmente estoy realizando mis prácticas.
 
-Me interesa especialmente el desarrollo de aplicaciones completas, combinando **interfaces intuitivas** con **backend estructurado y funcional**.
+Me interesa especialmente el desarrollo de aplicaciones web con **interfaces claras y una experiencia de usuario intuitiva**.
 
-Disfruto aprendiendo nuevas tecnologías y trabajando en proyectos que me permitan mejorar como desarrolladora.
+Actualmente estoy trabajando en:
 
-Actualmente estoy abierta a **oportunidades como desarrolladora web junior**.
+- Proyecto final de DAW
+- Mi portafolio web personal
+- Mejora de mis conocimientos en desarrollo web
 
----
-
-### Tecnologías
-
-**Frontend**
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Angular
-- React
-- Bootstrap
-
-**Backend**
-
-- Java
-- Spring Boot
-- PHP
-- MySQL
-
-**Herramientas**
-
-- Git
-- GitHub
-- VS Code
+Estoy creciendo como desarrolladora y abierta a **oportunidades como desarrolladora junior**.
 
 ---
 
-Actualmente sigo añadiendo nuevos proyectos para mejorar mis habilidades.
+### ✧ Tecnologías
+
+Frontend  
+HTML • CSS • JavaScript • TypeScript  
+Angular • React • Bootstrap
+
+Backend  
+Java • Spring Boot  
+PHP • MySQL
+
+Herramientas  
+Git • GitHub • VS Code 
 
 ---
 
-### 📊 Estadísticas GitHub
+### ✧ Actualmente
+
+- Desarrollando mi portafolio personal
+- Preparando el proyecto final de DAW
+- Aprendiendo nuevas tecnologías web
+
+---
+
+### ✧ Contacto
+
+LinkedIn  
+https://www.linkedin.com/in/fatimagarciamuriana/
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatimaGarM&show_icons=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGarM&layout=compact" height="150px"/>
+✧ Aprendiendo cada día ✧
 </p>
-
----
-
-### 📫 Contacto
-
-LinkedIn:
-www.linkedin.com/in/fatimagarciamuriana
-
----
-
- Siempre aprendiendo y mejorando como desarrolladora.
 
