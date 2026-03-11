@@ -1,70 +1,48 @@
 <h1 align="center">Fátima</h1>
 
 <p align="center">
-Desarrollo de Aplicaciones Web • Frontend y Full-stack
+<span style="color:#d8a7b1;">Desarrollo de Aplicaciones Web · Frontend · Full-stack</span>
 </p>
+
+<p align="center">──────── ❀ ────────</p>
+
+### Sobre mí
+
+Estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)**, actualmente realizando prácticas.
+
+Me gusta construir aplicaciones web sencillas, bien estructuradas y con interfaces claras.
+
+Ahora mismo estoy trabajando en:
+
+— Mi **proyecto final de DAW**  
+— Mi **portafolio web personal**
+
+Mi objetivo es seguir creciendo como desarrolladora y comenzar mi carrera como **desarrolladora web junior**.
+
+<p align="center">──────────</p>
+
+### Tecnologías
+
+**Frontend**  
+HTML · CSS · JavaScript · TypeScript · Angular · React · Bootstrap  
+
+**Backend**  
+Java · Spring Boot · PHP · MySQL  
+
+**Herramientas**  
+Git · GitHub · VS Code  
+
+<p align="center">──────────</p>
+
+### Estadísticas
 
 <p align="center">
-✨ Angular • React • Java • Spring Boot • PHP • MySQL ✨
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FatimaGarM&show_icons=true&hide_border=true&bg_color=1f1d2e&title_color=eb6f92&text_color=e0def4&icon_color=eb6f92"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGarM&layout=compact&hide_border=true&bg_color=1f1d2e&title_color=eb6f92&text_color=e0def4"/>
 </p>
 
----
-
-### 🌸 Sobre mí
-
-Soy estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)** y actualmente estoy realizando mis prácticas.
-
-Me interesa especialmente el desarrollo de aplicaciones web con **interfaces claras y una experiencia de usuario intuitiva**.
-
-Actualmente estoy trabajando en:
-
-- Proyecto final de DAW
-- Mi portafolio web personal
-- Mejora de mis conocimientos en desarrollo web
-
-Estoy creciendo como desarrolladora y abierta a **oportunidades como desarrolladora junior**.
-
----
-
-### ✧ Tecnologías
-
-Frontend  
-HTML • CSS • JavaScript • TypeScript  
-Angular • React • Bootstrap
-
-Backend  
-Java • Spring Boot  
-PHP • MySQL
-
-Herramientas  
-Git • GitHub • VS Code 
-
----
-
-### ✧ Actualmente
-
-- Desarrollando mi portafolio personal
-- Preparando el proyecto final de DAW
-- Aprendiendo nuevas tecnologías web
-
----
-### ✧ Estadísticas
+<p align="center">──────────</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatimaGarM&show_icons=true&hide_border=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGarM&layout=compact&hide_border=true" height="150px"/>
+<a href="https://www.linkedin.com/in/fatimagarciamuriana">LinkedIn</a>
 </p>
-
----
-
-### ✧ Contacto
-
-LinkedIn  
-https://www.linkedin.com/in/fatimagarciamuriana/
-
----
-
-<p align="center">
-✧ Aprendiendo cada día ✧
-</p>
-
