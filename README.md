@@ -10,16 +10,16 @@
 
 Estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)**, actualmente realizando prácticas.
 
-Me gusta construir aplicaciones web sencillas, bien estructuradas y con interfaces claras.
+Me interesa el desarrollo web y sigo aprendiendo mientras trabajo en mis propios proyectos.
 
-Ahora mismo estoy trabajando en:
+Ahora mismo estoy desarrollando:
 
-— Mi **proyecto final de DAW**  
-— Mi **portafolio web personal**
+• **Proyecto final de DAW**  
+• **Mi portafolio web personal**
 
 Mi objetivo es seguir creciendo como desarrolladora y comenzar mi carrera como **desarrolladora web junior**.
 
-<p align="center">──────────</p>
+<p align="center">────────</p>
 
 ### Tecnologías
 
@@ -32,7 +32,7 @@ Java · Spring Boot · PHP · MySQL
 **Herramientas**  
 Git · GitHub · VS Code  
 
-<p align="center">──────────</p>
+<p align="center">────────</p>
 
 ### Estadísticas
 
@@ -41,8 +41,10 @@ Git · GitHub · VS Code
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGarM&layout=compact&hide_border=true&bg_color=1f1d2e&title_color=eb6f92&text_color=e0def4"/>
 </p>
 
-<p align="center">──────────</p>
+<p align="center">────────</p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fatimagarciamuriana">LinkedIn</a>
+<a href="https://www.linkedin.com/in/fatimagarciamuriana">
+<img src="https://img.shields.io/badge/LinkedIn-Fátima%20García-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
 </p>
