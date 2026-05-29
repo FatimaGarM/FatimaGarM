@@ -83,18 +83,6 @@ Me gusta que las cosas estén bien hechas. Tanto el código como el resultado fi
 
 ---
 
-### ✦ Estadísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FatimaGarM&show_icons=true&hide_border=true&bg_color=f5ebe0&title_color=5c3d2e&text_color=8c5e45&icon_color=c9956c"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGarM&layout=compact&hide_border=true&bg_color=f5ebe0&title_color=5c3d2e&text_color=8c5e45"/>
-</p>
-
-<br/>
-
----
-
 <p align="center">
   <sub>✦ &nbsp; Detallista por naturaleza &nbsp; ✦</sub>
 </p>
