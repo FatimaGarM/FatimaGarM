@@ -20,7 +20,7 @@
 
 ### ✦ Sobre mí
 
-Recién graduada en **DAW (Desarrollo de Aplicaciones Web)**, busco mi primer trabajo como desarrolladora web junior en remoto.
+He finalizado DAW (Desarrollo de Aplicaciones Web) y actualmente busco una oportunidad como desarrolladora web junior en remoto.
 
 He hecho prácticas con código real en producción en la **Universidad Pablo de Olavide** — mantenimiento de aplicaciones PHP, optimización de scripts MySQL y migración de Bootstrap 3 a Bootstrap 5. Ahora estoy construyendo un **ecommerce propio** con Next.js, Supabase y Stripe.
 
@@ -36,7 +36,7 @@ Me gusta que las cosas estén bien hechas. Tanto el código como el resultado fi
 |---|---|---|
 | 🛒 Ecommerce personal | Next.js · TypeScript · Tailwind CSS · Supabase · Stripe | En desarrollo |
 | 🍽️ App gestión restaurantes *(TFG)* | React · TypeScript · Spring Boot · MySQL | Completado |
-| 🌐 Portfolio web personal | En desarrollo | En desarrollo |
+| 🌐 Portfolio web personal | HTML5 ·  CSS | En desarrollo |
 
 <br/>
 
