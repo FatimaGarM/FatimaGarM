@@ -18,7 +18,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/ph/sparkle-light.svg?color=%23c9956c&width=22" width="22" align="top"/> Sobre mí
+### Sobre mí
 
 He finalizado DAW (Desarrollo de Aplicaciones Web) y actualmente busco mi primera oportunidad profesional como desarrolladora web junior en remoto.
 
@@ -30,7 +30,7 @@ Me gusta que las cosas estén bien hechas. Tanto el código como el resultado fi
 
 ---
 
-### <img src="https://api.iconify.design/ph/sparkle-light.svg?color=%23c9956c&width=22" width="22" align="top"/> Proyectos actuales
+### Proyectos actuales
 
 | Proyecto | Stack | Estado |
 |---|---|---|
@@ -43,7 +43,7 @@ Me gusta que las cosas estén bien hechas. Tanto el código como el resultado fi
 
 ---
 
-### <img src="https://api.iconify.design/ph/sparkle-light.svg?color=%23c9956c&width=22" width="22" align="top"/> Tecnologías
+### Tecnologías
 
 **Frontend**
 
@@ -86,5 +86,5 @@ Me gusta que las cosas estén bien hechas. Tanto el código como el resultado fi
 ---
 
 <p align="center">
-  <img src="https://api.iconify.design/ph/sparkle-light.svg?color=%23c9956c&width=14" width="14"/> &nbsp;<sub>Detallista por naturaleza</sub>&nbsp; <img src="https://api.iconify.design/ph/sparkle-light.svg?color=%23c9956c&width=14" width="14"/>
+  <sub>Detallista por naturaleza</sub>
 </p>
