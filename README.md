@@ -18,7 +18,7 @@
 
 ---
 
-### ✦ Sobre mí
+### <img src="https://api.iconify.design/ph/sparkle-light.svg?color=%23c9956c&width=22" width="22" align="top"/> Sobre mí
 
 He finalizado DAW (Desarrollo de Aplicaciones Web) y actualmente busco mi primera oportunidad profesional como desarrolladora web junior en remoto.
 
@@ -30,20 +30,20 @@ Me gusta que las cosas estén bien hechas. Tanto el código como el resultado fi
 
 ---
 
-### ✦ Proyectos actuales
+### <img src="https://api.iconify.design/ph/sparkle-light.svg?color=%23c9956c&width=22" width="22" align="top"/> Proyectos actuales
 
 | Proyecto | Stack | Estado |
 |---|---|---|
-| 🍽️ [Plataforma de gestión para restaurantes](https://github.com/FatimaGarM/plataforma-gestion-restaurantes) *(proyecto final DAW)* | React · Spring Boot · MySQL · Docker | Completado |
-| 📊 [GitHub Repo Insights](https://github.com/FatimaGarM/github-repo-insights) · [demo](https://github-repo-insights.vercel.app) | Next.js · React · TypeScript · Recharts | Completado |
-| 🛒 Ecommerce personal | Next.js · TypeScript · Tailwind CSS · Supabase · Stripe | En desarrollo |
-| 🌐 Portfolio web personal | HTML5 · CSS · JavaScript · Responsive Design | En desarrollo |
+| <img src="https://api.iconify.design/ph/fork-knife-light.svg?color=%23c9956c&width=20" width="20"/> [Plataforma de gestión para restaurantes](https://github.com/FatimaGarM/plataforma-gestion-restaurantes) *(proyecto final DAW)* | React · Spring Boot · MySQL · Docker | Completado |
+| <img src="https://api.iconify.design/ph/chart-line-up-light.svg?color=%23c9956c&width=20" width="20"/> [GitHub Repo Insights](https://github.com/FatimaGarM/github-repo-insights) · [demo](https://github-repo-insights.vercel.app) | Next.js · React · TypeScript · Recharts | Completado |
+| <img src="https://api.iconify.design/ph/shopping-bag-open-light.svg?color=%23c9956c&width=20" width="20"/> Ecommerce personal | Next.js · TypeScript · Tailwind CSS · Supabase · Stripe | En desarrollo |
+| <img src="https://api.iconify.design/ph/pen-nib-light.svg?color=%23c9956c&width=20" width="20"/> Portfolio web personal | HTML5 · CSS · JavaScript · Responsive Design | En desarrollo |
 
 <br/>
 
 ---
 
-### ✦ Tecnologías
+### <img src="https://api.iconify.design/ph/sparkle-light.svg?color=%23c9956c&width=22" width="22" align="top"/> Tecnologías
 
 **Frontend**
 
@@ -86,5 +86,5 @@ Me gusta que las cosas estén bien hechas. Tanto el código como el resultado fi
 ---
 
 <p align="center">
-  <sub>✦ &nbsp; Detallista por naturaleza &nbsp; ✦</sub>
+  <img src="https://api.iconify.design/ph/sparkle-light.svg?color=%23c9956c&width=14" width="14"/> &nbsp;<sub>Detallista por naturaleza</sub>&nbsp; <img src="https://api.iconify.design/ph/sparkle-light.svg?color=%23c9956c&width=14" width="14"/>
 </p>
