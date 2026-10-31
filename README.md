@@ -34,8 +34,9 @@ Me gusta que las cosas estén bien hechas. Tanto el código como el resultado fi
 
 | Proyecto | Stack | Estado |
 |---|---|---|
+| 🍽️ [Plataforma de gestión para restaurantes](https://github.com/FatimaGarM/plataforma-gestion-restaurantes) *(proyecto final DAW)* | React · Spring Boot · MySQL · Docker | Completado |
+| 📊 [GitHub Repo Insights](https://github.com/FatimaGarM/github-repo-insights) · [demo](https://github-repo-insights.vercel.app) | Next.js · React · TypeScript · Recharts | Completado |
 | 🛒 Ecommerce personal | Next.js · TypeScript · Tailwind CSS · Supabase · Stripe | En desarrollo |
-| 🍽️ App gestión restaurantes *(TFG)* | React · TypeScript · Spring Boot · MySQL | Completado |
 | 🌐 Portfolio web personal | HTML5 · CSS · JavaScript · Responsive Design | En desarrollo |
 
 <br/>
@@ -74,6 +75,7 @@ Me gusta que las cosas estén bien hechas. Tanto el código como el resultado fi
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCRUM-5c3d2e?style=flat-square"/>
 <img src="https://img.shields.io/badge/KANBAN-8c5e45?style=flat-square"/>
