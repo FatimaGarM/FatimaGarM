@@ -37,7 +37,7 @@ Me gusta que las cosas estén bien hechas. Tanto el código como el resultado fi
 | <img src="https://api.iconify.design/ph/fork-knife-light.svg?color=%23c9956c&width=20" width="20"/> [Plataforma de gestión para restaurantes](https://github.com/FatimaGarM/plataforma-gestion-restaurantes) *(proyecto final DAW)* | React · Spring Boot · MySQL · Docker | Completado |
 | <img src="https://api.iconify.design/ph/chart-line-up-light.svg?color=%23c9956c&width=20" width="20"/> [GitHub Repo Insights](https://github.com/FatimaGarM/github-repo-insights) · [demo](https://github-repo-insights.vercel.app) | Next.js · React · TypeScript · Recharts | Completado |
 | <img src="https://api.iconify.design/ph/shopping-bag-open-light.svg?color=%23c9956c&width=20" width="20"/> Ecommerce personal | Next.js · TypeScript · Tailwind CSS · Supabase · Stripe | En desarrollo |
-| <img src="https://api.iconify.design/ph/pen-nib-light.svg?color=%23c9956c&width=20" width="20"/> Portfolio web personal | HTML5 · CSS · JavaScript · Responsive Design | En desarrollo |
+| <img src="https://api.iconify.design/ph/pen-nib-light.svg?color=%23c9956c&width=20" width="20"/> Portfolio web personal | Next.js · React · TypeScript · Responsive Design | En desarrollo |
 
 <br/>
 
