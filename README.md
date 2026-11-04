@@ -20,7 +20,7 @@
 
 ### Sobre mí
 
-He finalizado DAW (Desarrollo de Aplicaciones Web) y actualmente busco mi primera oportunidad profesional como desarrolladora web junior en remoto.
+He finalizado DAW (Desarrollo de Aplicaciones Web) y actualmente busco mi primera oportunidad profesional como desarrolladora web junior, en remoto o en Sevilla y alrededores.
 
 He hecho prácticas con código real en producción en la **Universidad Pablo de Olavide** — mantenimiento de aplicaciones PHP, optimización de scripts MySQL y migración de Bootstrap 3 a Bootstrap 5. Ahora estoy construyendo un **ecommerce propio** con Next.js, Supabase y Stripe.
 
@@ -36,8 +36,8 @@ Me gusta que las cosas estén bien hechas. Tanto el código como el resultado fi
 |---|---|---|
 | <img src="https://api.iconify.design/ph/fork-knife-light.svg?color=%23c9956c&width=20" width="20"/> [Plataforma de gestión para restaurantes](https://github.com/FatimaGarM/plataforma-gestion-restaurantes) *(proyecto final DAW)* | React · Spring Boot · MySQL · Docker | Completado |
 | <img src="https://api.iconify.design/ph/chart-line-up-light.svg?color=%23c9956c&width=20" width="20"/> [GitHub Repo Insights](https://github.com/FatimaGarM/github-repo-insights) · [demo](https://github-repo-insights.vercel.app) | Next.js · React · TypeScript · Recharts | Completado |
-| <img src="https://api.iconify.design/ph/shopping-bag-open-light.svg?color=%23c9956c&width=20" width="20"/> Ecommerce personal | Next.js · TypeScript · Tailwind CSS · Supabase · Stripe | En desarrollo |
-| <img src="https://api.iconify.design/ph/pen-nib-light.svg?color=%23c9956c&width=20" width="20"/> Portfolio web personal | Next.js · React · TypeScript · Responsive Design | En desarrollo |
+| <img src="https://api.iconify.design/ph/shopping-bag-open-light.svg?color=%23c9956c&width=20" width="20"/> [Ecommerce personal](https://lowme.es) | Next.js · TypeScript · Tailwind CSS · Supabase · Stripe | Publicado |
+| <img src="https://api.iconify.design/ph/pen-nib-light.svg?color=%23c9956c&width=20" width="20"/> [Portfolio web personal](https://github.com/FatimaGarM/portfolio) · [web](https://fatimagarcia.vercel.app) | Next.js · React · TypeScript · Responsive Design | Publicado |
 
 <br/>
 
